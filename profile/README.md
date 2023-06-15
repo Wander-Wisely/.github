@@ -13,6 +13,6 @@ With wanderwisely, you have the power to create personalized travel itineraries 
 | Nadindra Dwi Ariyanta     | A282DSX1188 | [NadindraDwiA](https://github.com/NadindraDwiA)                 |
 | Nurul Hidayatullah        | A172DSX2431 | [RulH19 ](https://github.com/RulH19)                            |
 | Lintang Luthfiantoni      | M361DSX2523 | [antoniluthfi](https://github.com/antoniluthfi)                 |
-| Samantha Virginia Tansil  | M151DSY2921 | []()                                                            |
+| Samantha Virginia Tansil  | M151DSY2921 | [samanthatansil](https://github.comsamanthatansil)              |
 | Roni Ragil Iman Khoirul   | C282DSX0983 | [roniragilimankhoirul](https://github.com/roniragilimankhoirul) |
 | Muhammad 'Adzim Al Islami | C282DSX2611 | [AAAdzim](https://github.com/AAAdzim)                           |
